@@ -1,0 +1,39 @@
+.text{
+    background: linear-gradient(purple,deeppink);
+    color: white;
+    text-align: center;
+}
+.btn1{
+    border-radius: 20px;
+    background: linear-gradient(purple,deeppink);
+    position: relative;
+    left: 50px;
+}
+.wer{
+    text-align: center;
+}
+.text1{
+    background: linear-gradient(blue,lightskyblue);
+    color: white;
+    text-align: center;
+}
+.btn2{
+    border-radius: 20px;
+    position: relative;
+    left: 50px;
+}
+.text2{
+    background: linear-gradient(deeppink,orange);
+    color: white;
+    text-align: center;
+}
+.btn3{
+    border-radius: 20px;
+    position: relative;
+    left: 50px;
+}
+.text3{
+    background-color: #007bff;
+    color: white;
+    text-align: center;
+}
